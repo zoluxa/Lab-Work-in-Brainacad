@@ -1,0 +1,9 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\bin\Debug\Hello_Operators.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\bin\Debug\Hello_Operators.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\obj\Debug\Hello_Operators.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\obj\Debug\Hello_Operators.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Operators\Hello_Operators\obj\Debug\Hello_Operators.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb

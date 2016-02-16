@@ -1,0 +1,30 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators_stud.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators_stud.csprojResolveAssemblyReference.cache
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators_stud.csprojResolveAssemblyReference.cache
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe
+E:\С#\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.pdb
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.pdb
+D:\С#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators_stud.csprojResolveAssemblyReference.cache
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe.config
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.exe
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators.pdb
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.exe
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\bin\Debug\Hello_Operators.pdb
+D:\c#\1.1.3\HelloOperators_bysteps\Begin\Hello_Operatorss_stud\Hello_Operators\obj\Debug\Hello_Operators_stud.csprojResolveAssemblyReference.cache
