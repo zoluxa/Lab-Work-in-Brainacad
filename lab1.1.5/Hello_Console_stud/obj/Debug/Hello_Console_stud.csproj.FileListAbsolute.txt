@@ -1,0 +1,29 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\End\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\End\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\End\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\End\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\End\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.csprojResolveAssemblyReference.cache
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe.config
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.exe
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.pdb
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.pdb
+E:\С#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.csprojResolveAssemblyReference.cache
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe.config
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.exe
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.pdb
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.exe
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\bin\Debug\Hello_Console_stud.pdb
+D:\c#\1.1.5\HelloConsole_bysteps\Begin\Hello_Console_stud\Hello_Console_stud\obj\Debug\Hello_Console_stud.csprojResolveAssemblyReference.cache
