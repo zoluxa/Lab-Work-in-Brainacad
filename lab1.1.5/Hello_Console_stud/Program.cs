@@ -122,6 +122,7 @@ namespace Hello_Operators_lect
             b = (int)uint.Parse(Console.ReadLine());
 
             {
+                //RV: converting to unary can be extracted to the separate method to not write the same code twise.
                 a_str = "";
                 for (int ii = 0; ii < a; ii++)
                 {

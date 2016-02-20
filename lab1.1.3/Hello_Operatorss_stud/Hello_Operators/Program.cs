@@ -121,7 +121,8 @@ namespace HelloOperators_stud
         #region calculator
         static void Calculator()
         {
-            Console.WriteLine(@"Select the arithmetic operation:
+            //RV: This message is misleading.
+            Console.WriteLine(@"Select the arithmetic operation: 
                                 1. Multiplication 
                                 2. Divide 
                                 3. Addition 
@@ -171,6 +172,7 @@ namespace HelloOperators_stud
         #endregion
 
         #region Factorial
+        //RV: It looks like the actual implementation is commented out.
         static void Factorial_calculation()
         {
             int n = 5;
@@ -180,7 +182,7 @@ namespace HelloOperators_stud
             {
                 throw new ArgumentException("Invalid value, use positive");
             }
-            int result=1;
+            int result=1; 
             //if (n != 0)
             //{
              //   while (n > 1)

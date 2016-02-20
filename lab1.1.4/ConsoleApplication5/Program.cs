@@ -32,11 +32,15 @@ namespace CSharp_Net_module1_1_4_lab
 
 
             // 4) set the size of every array in jagged array (number of computers)
-                        
+                 
+            //RV: Why loop and then multiple if? What is the benefit of this loop? Just hardcode the indexes for initialization. dep[0][0] =, dep[0][1] = ...dep[4][3] =        
             for (int i = 0; i < 4; i++)
             {
                 if (i == 0)
                 {
+                    //RV: Here is null reference exception. This is because you access dep[i] array elements before creating the instance array itself.
+                    //RV: Jagged array is array of arrays. So every department array has to be initialized first.  
+                    //RV: For example here you have to do the foolowing: dep[i] = new Computer[5];, because department number 0 contains 5 computers                    
                     dep[i][0] = new Computer() { CPU = 4, freq = 2.5, memory = 6, HDD = 500}; dep[i][0].type = CompType.desktop;
                     dep[i][1] = new Computer() { CPU = 4, freq = 2.5, memory = 6, HDD = 500}; dep[i][1].type = CompType.desktop;
                     dep[i][2] = new Computer() { CPU = 2, freq = 1.7, memory = 4, HDD = 250}; dep[i][2].type = CompType.laptop;
@@ -101,10 +105,13 @@ namespace CSharp_Net_module1_1_4_lab
             Console.WriteLine("Total number of computers: ", laptopCount + desktopCount + serverCount);
             Console.ReadKey();
 
+            //RV: Parts 8, 9 and 10 are also needed
+
             // 8) find computer with the largest storage (HDD) - 
             // compare HHD of every computer between each other; 
             // find position of this computer in array (indexes)
             // Note: use loops and if-else statements
+
 
 
             // 9) find computer with the lowest productivity (CPU and memory) - 
