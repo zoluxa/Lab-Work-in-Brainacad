@@ -183,13 +183,13 @@ namespace HelloOperators_stud
                 throw new ArgumentException("Invalid value, use positive");
             }
             int result=1; 
-            //if (n != 0)
-            //{
-             //   while (n > 1)
-              //  {
-                //    result *= n--;
-               // }
-           // }
+            if (n != 0)
+            {
+                while (n > 1)
+                {
+                    result *= n--;
+                }
+            }
                        
             
             Console.WriteLine(result);
