@@ -1,0 +1,105 @@
+.container.body-content {
+    margin-top: 51px !important;
+}
+/* ==========================================================================
+Hero
+========================================================================== */
+.hero {
+  min-height: 750px;
+  background: url("images/flight1320x742.jpg") center center;
+  background-size: cover;
+  position: relative; }
+  .hero .down-arrow a {
+    color: #fff; }
+  .hero h1 {
+    color: #fff;
+    margin-bottom: 40px; }
+  .hero p.intro {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 80px; }
+  .hero .hero-content {
+    padding-top: 26%; }
+  /* ==========================================================================
+.hero-strip
+========================================================================== */
+.hero-strip {
+  margin-top: 120px;
+  background: #333844 url("../img/polygonal-bg.jpg") no-repeat center center;
+  padding-bottom: 190px;
+  position: relative; }
+  .hero-strip i {
+    font-family: "Nunito", sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #F69D52;
+    vertical-align: top;
+    margin-left: -8px;
+    font-style: normal; }
+  .hero-strip h2 {
+    color: #fff;
+    margin: 0 0 20px 0; }
+  .hero-strip p {
+    color: #ACB1B4; }
+  .hero-strip .btn {
+    margin-top: 10px; }
+  .hero-strip .logo-placeholder {
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    bottom: -285px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%); }
+  .btn {
+  font-size: 13px;
+  border: solid 2px;
+  border-radius: 40px;
+  display: inline-block;
+  text-transform: uppercase; }
+
+.btn:hover, .btn:focus {
+  color: #fff;
+  border-color: #FF5274;
+  background-color: #FF5274; }
+
+.btn-white {
+  font-size: 13px;
+  border: solid 2px;
+  border-radius: 40px;
+  display: inline-block;
+  border-color: #fff; }
+
+.btn-white:hover, .btn-white:focus {
+  color: #FF5274;
+  border-color: #FF5274; }
+
+.btn-fill {
+  color: #fff;
+  border: solid 2px #FF5274;
+  border-radius: 40px;
+  display: inline-block;
+  text-transform: uppercase;
+  background-color: #FF5274; }
+
+.btn-fill:hover, .btn-fill:focus {
+  color: #fff;
+  background-color: #D7405D;
+  border-color: #D7405D; }
+
+.btn-small {
+  padding: 8px 40px; }
+
+.btn-large {
+  padding: 15px 40px; }
+
+.btn-margin-right {
+  margin-right: 20px; }
+
+section.intro, section.features-extra, section.sign-up {
+  background: #fff; }
+
+section.features, section.blog-intro, section.blog {
+  background: #F3F4F8; }

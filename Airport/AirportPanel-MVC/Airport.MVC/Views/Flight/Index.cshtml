@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Airport.MVC.Models.FlightModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>@Html.ValidationSummary()</p>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index", "Flight", FormMethod.Get))
+{
+    <p>
+        Find by @Html.DropDownList("SearchParam",(IEnumerable<SelectListItem>) ViewData["SearchParam"])
+        @Html.TextBox("SearchString")
+        <input type="submit" value="Filter" class="input-sm"/>
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Flight Number", "Index", new { sortOrder = ViewBag.FlightNumberSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Airline", "Index", new { sortOrder = ViewBag.AirlineSortParam})
+        </th>
+        <th>
+            @Html.ActionLink("Departure port", "Index", new { sortOrder = ViewBag.DeparturePortSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Departure date", "Index", new { sortOrder = ViewBag.DepartureDateSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Arrival port", "Index", new { sortOrder = ViewBag.ArrivalPortSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Arrival Date", "Index", new { sortOrder = ViewBag.ArrivalDateSortParam })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Terminal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PlaceQty)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AirlineName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeparturePortName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DepartureDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ArrivalPortName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ArrivalDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Terminal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlaceQty)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

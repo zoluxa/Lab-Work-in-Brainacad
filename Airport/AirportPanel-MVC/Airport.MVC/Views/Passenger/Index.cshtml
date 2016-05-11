@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Airport.MVC.Models.PassengerModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm())
+{
+    <p>
+        Search by @Html.DropDownList("SearchParam", (SelectList)ViewBag.SearchParam)
+         @Html.TextBox("SearchString")
+        <input type="submit" value="search"/>
+    </p>
+}
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.Hidden(model => model.FlightId)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.FlightNumber)
+        </th>
+        <th>
+            @Html.ActionLink("First Name", "Index", new { sortOrder = ViewBag.FirstNameSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.LastNameSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Nationality", "Index", new { sortOrder = ViewBag.NationalitySortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Passport", "Index", new { sortOrder = ViewBag.PassportSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Day of Birthday", "Index", new { sortOrder = ViewBag.DateOfBirthdaySortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Sex", "Index", new { sortOrder = ViewBag.SexSortParam })
+        </th>
+        <th>
+            @Html.ActionLink("Place class", "Index", new { sortOrder = ViewBag.PlaceClassSortParam })
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>
+            @Html.HiddenFor(modelItem => item.FlightId)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.FlightNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nationality)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Passport)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfBirthday)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sex)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlaceClass)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
